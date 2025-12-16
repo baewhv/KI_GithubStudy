@@ -4,3 +4,5 @@
 - ctrl + shift + f : 레포지토리 저장된 폴더 열기
 - ctrl + shift + g : 레포지토리 페이지 열기
 - ctrl + shift + a : IDE에서 열기
+
+## 커밋용 제목
